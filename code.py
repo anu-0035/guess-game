@@ -1,7 +1,8 @@
 # guess-game
 #a script that generates a random number between a fixed range, and  if the user guesses the number right in three chances, then user wins otherwise user lose. This game user can play as many numbers of times and whenever user wins a score is to be given to the user.
-print("""this is a game where the user enter the strating and ending range. both student and computer guesses a number in that given range.
-if the user guess the same number in the 3 attempt then u won otherwise be a losser""")
+print("""This is a game where the user enter the strating and ending range. 
+Both student and computer guesses a number in that given range.
+If the user guess the same number in the 3 attempt then u won otherwise be a losser""")
 
 import random
 
